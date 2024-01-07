@@ -1,3 +1,5 @@
-1. Clone the repo
-2. Run command "npm install"
-3. Run command "npm run dev"
+1. Clone the repository.
+2. Open the folder 'amey-portfolio' and open terminal window in it.
+3. Run command "npm install".
+4. Run command "npm run dev".
+5. Open the localhost link generated in the terminal.
