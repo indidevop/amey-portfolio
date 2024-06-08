@@ -19,8 +19,15 @@ const items = [
   },
   {
     id: 3,
-    title: "To Do App",
+    title: "CleverBooks",
     img: "/p3.png",
+    desc: "A stunning homepage for an AI website created using React hooks and TailwindCSS classes, making extensive use of gradients, transitions, and animations. Completely responsive.",
+    link:"https://cleverbookspk.netlify.app/"
+  },
+  {
+    id: 4,
+    title: "To Do App",
+    img: "/p4.png",
     desc: "A todo app which supports all the CRUD operations. Data is stored on the MongoDB Atlas cloud database. Technology used - ReactJS, Bootstrap, NodeJS, MongoDB",
     link:"https://notebook-frontend-c339.onrender.com"
   }
