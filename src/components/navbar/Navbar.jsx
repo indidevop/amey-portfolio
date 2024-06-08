@@ -13,6 +13,9 @@ function Navbar() {
       <Sidebar/>
       <div className="wrapper">
         <div className="social">
+          <motion.a href="#" whileHover={{scale:1.1}} whileTap={{scale:1}} style={{marginTop: "5px"}}>
+          <a href="https://drive.google.com/file/d/1qTGeBmQv3LBA1ZaRSEhN8gZqX_3ZJfpz/view?usp=sharing" target="_blank">Resume</a>
+          </motion.a>
           <motion.a href="#" whileHover={{scale:1.1}} whileTap={{scale:1}}>
           <a href="mailto:ameykishor@gmail.com" target="_blank"><FontAwesomeIcon className="icons" icon={faEnvelope} /></a>
           </motion.a>
